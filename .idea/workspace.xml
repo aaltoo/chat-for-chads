@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4a24b9-839e-442e-a5e9-ee624bb71ce9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ChatMessage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ChatRoom.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SignIn.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SignOut.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ChatRoom.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ChatRoom.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,9 @@
       <option name="presentableId" value="Default" />
       <updated>1619673505194</updated>
       <workItem from="1619673508369" duration="3599000" />
-      <workItem from="1626320406469" duration="691000" />
+      <workItem from="1626320406469" duration="949000" />
+      <workItem from="1626321356834" duration="1930000" />
+      <workItem from="1626351284910" duration="307000" />
     </task>
     <servers />
   </component>

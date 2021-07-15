@@ -1,7 +1,8 @@
 import {useCollectionData} from "react-firebase-hooks/firestore";
 import firebase from "firebase";
 import {useRef, useState} from "react";
-import ChatMessage from "./ChatMessage";
+import ChatMessage from "../ChatMessage/ChatMessage";
+import styles from './ChatRoom.module.css'
 
 function ChatRoom(props) {
     const dummy = useRef();

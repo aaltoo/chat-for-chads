@@ -1,5 +1,6 @@
-import SignOut from "./SignOut";
+import SignOut from "../SignOut/SignOut";
 import React from "react";
+import styles from './Header.module.css'
 
 const Header = (props) => {
     return (

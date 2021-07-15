@@ -5,9 +5,9 @@ import 'firebase/firestore';
 import 'firebase/auth';
 import 'firebase/analytics';
 import { useAuthState } from 'react-firebase-hooks/auth';
-import SignIn from "./components/SignIn";
-import ChatRoom from "./components/ChatRoom";
-import Header from "./components/Header";
+import SignIn from "./components/SignIn/SignIn";
+import ChatRoom from "./components/ChatRoom/ChatRoom";
+import Header from "./components/Header/Header";
 
 firebase.initializeApp({
   apiKey: "AIzaSyABYMP3w6R--vfqc10fFMptXthBAii1IvE",
